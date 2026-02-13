@@ -4656,7 +4656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Rect_L11.0mm_W4.2mm_P10.00mm_MKT"
 			(at 180.34 68.8848 0)
 			(effects
 				(font
@@ -4929,7 +4929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Rect_L11.0mm_W4.2mm_P10.00mm_MKT"
 			(at 118.11 68.8848 0)
 			(effects
 				(font
