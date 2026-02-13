@@ -2621,6 +2621,66 @@
 		)
 		(uuid "f6f501a5-825d-42fc-b807-cd8beb00d0db")
 	)
+	(label "High voltage"
+		(at 185.42 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61ee49ee-452e-4570-9e6f-d9701c3c28f6")
+	)
+	(label "High voltage"
+		(at 120.65 69.85 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "75833980-7826-44d4-8d43-5f7724365cbf")
+	)
+	(label "High voltage"
+		(at 104.14 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "853eaa77-b8d0-46bd-81a7-0ed61e5f643e")
+	)
+	(label "High voltage"
+		(at 167.64 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "923fac23-b694-4ff2-8992-c4ce8fab04e5")
+	)
+	(label "High voltage"
+		(at 115.57 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c739e301-b97c-415f-99c6-470c9f667dc8")
+	)
+	(label "High voltage"
+		(at 157.48 83.82 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fbad7c9c-f29c-4006-8357-31cd070f37e1")
+	)
 	(symbol
 		(lib_id "Device:R")
 		(at 85.09 95.25 180)
