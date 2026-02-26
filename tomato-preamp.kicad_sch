@@ -1798,22 +1798,10 @@
 		(uuid "58cd2751-4e84-4592-a0c0-e60379f48e2e")
 	)
 	(junction
-		(at 167.64 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5ca1567c-8520-4396-b602-2910e89bd910")
-	)
-	(junction
 		(at 167.64 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63275d97-79b7-41e2-ac98-22efd80ffda6")
-	)
-	(junction
-		(at 104.14 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6977843b-274b-444a-8183-e297b8970a51")
 	)
 	(junction
 		(at 167.64 69.85)
@@ -1834,22 +1822,10 @@
 		(uuid "79fa6f29-cb5b-48be-9cd7-78f03369946e")
 	)
 	(junction
-		(at 167.64 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f1ece4d-1af6-4888-b472-8993a671eb51")
-	)
-	(junction
 		(at 157.48 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f29629d-bb66-4a8e-b12b-0b492c6ce3fa")
-	)
-	(junction
-		(at 104.14 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a56a4ebe-04af-4c0e-9112-4b27140064ca")
 	)
 	(junction
 		(at 123.19 69.85)
@@ -1900,16 +1876,6 @@
 	(no_connect
 		(at 194.31 81.28)
 		(uuid "950e0e3e-383c-4161-9b25-4359e9c190e4")
-	)
-	(wire
-		(pts
-			(xy 165.1 54.61) (xy 167.64 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04040103-519f-4823-9cfd-f419a7dac677")
 	)
 	(wire
 		(pts
@@ -2053,16 +2019,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 62.23) (xy 167.64 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34831646-7fc8-441f-99df-e3e5139d384c")
-	)
-	(wire
-		(pts
 			(xy 207.01 46.99) (xy 207.01 49.53)
 		)
 		(stroke
@@ -2100,16 +2056,6 @@
 			(type default)
 		)
 		(uuid "4070d7a1-75cb-4af4-8cf1-c071022e0dfb")
-	)
-	(wire
-		(pts
-			(xy 167.64 54.61) (xy 170.18 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "450b2c93-b17d-4968-826a-04a57a6b5ec9")
 	)
 	(wire
 		(pts
@@ -2203,26 +2149,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 54.61) (xy 106.68 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d831c9d-89b3-4849-9b7a-cbab12470d89")
-	)
-	(wire
-		(pts
-			(xy 101.6 54.61) (xy 104.14 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71a31e36-923c-4be9-91a4-0a62fbded881")
-	)
-	(wire
-		(pts
 			(xy 175.26 110.49) (xy 175.26 114.3)
 		)
 		(stroke
@@ -2293,16 +2219,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 62.23) (xy 106.68 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "902cbb1b-e967-48f1-afc7-82c7da1cdb98")
-	)
-	(wire
-		(pts
 			(xy 104.14 49.53) (xy 167.64 49.53)
 		)
 		(stroke
@@ -2340,16 +2256,6 @@
 			(type default)
 		)
 		(uuid "94217172-5e85-4e44-90b6-88a2f949da3b")
-	)
-	(wire
-		(pts
-			(xy 101.6 62.23) (xy 104.14 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9954b339-b074-4659-bf29-47f823b9eb8e")
 	)
 	(wire
 		(pts
@@ -2400,16 +2306,6 @@
 			(type default)
 		)
 		(uuid "a4f5f51b-a25b-4f7a-bdf2-42f2126718b2")
-	)
-	(wire
-		(pts
-			(xy 167.64 62.23) (xy 170.18 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a50f7237-9ab2-4394-93b1-542c7dbed207")
 	)
 	(wire
 		(pts
@@ -2622,46 +2518,6 @@
 		(uuid "f6f501a5-825d-42fc-b807-cd8beb00d0db")
 	)
 	(label "High voltage"
-		(at 185.42 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "61ee49ee-452e-4570-9e6f-d9701c3c28f6")
-	)
-	(label "High voltage"
-		(at 120.65 69.85 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "75833980-7826-44d4-8d43-5f7724365cbf")
-	)
-	(label "High voltage"
-		(at 104.14 74.93 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "853eaa77-b8d0-46bd-81a7-0ed61e5f643e")
-	)
-	(label "High voltage"
-		(at 167.64 74.93 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "923fac23-b694-4ff2-8992-c4ce8fab04e5")
-	)
-	(label "High voltage"
 		(at 115.57 49.53 0)
 		(effects
 			(font
@@ -2670,16 +2526,6 @@
 			(justify left bottom)
 		)
 		(uuid "c739e301-b97c-415f-99c6-470c9f667dc8")
-	)
-	(label "High voltage"
-		(at 157.48 83.82 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fbad7c9c-f29c-4006-8357-31cd070f37e1")
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -3123,7 +2969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Valve:Valve_Noval_P"
+		(property "Footprint" "tubes:Valve_6N2P-3"
 			(at 174.498 97.79 0)
 			(effects
 				(font
@@ -3379,76 +3225,6 @@
 			(project ""
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
 					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 101.6 58.42 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2f98b827-2afc-4c2f-9b10-a2b85dce7730")
-		(property "Reference" "R9"
-			(at 99.06 57.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "68k"
-			(at 99.06 59.6899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 99.822 58.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 101.6 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 101.6 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "25401767-e05f-429f-a326-1f2a3632112b")
-		)
-		(pin "1"
-			(uuid "72caa4c2-7533-49fa-be31-a86e72a5bd54")
-		)
-		(instances
-			(project "tomato-preamp"
-				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
-					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -4016,7 +3792,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 170.18 58.42 0)
+		(at 167.64 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4025,7 +3801,7 @@
 		(fields_autoplaced yes)
 		(uuid "573d7f90-1c82-4a0b-8fd4-73e796e97bfe")
 		(property "Reference" "R7"
-			(at 172.72 57.1499 0)
+			(at 170.18 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4033,8 +3809,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68k"
-			(at 172.72 59.6899 0)
+		(property "Value" "32k"
+			(at 170.18 59.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4042,8 +3818,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 168.402 58.42 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
+			(at 165.862 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4052,7 +3828,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 58.42 0)
+			(at 167.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4061,7 +3837,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 170.18 58.42 0)
+			(at 167.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4243,7 +4019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
 			(at 127 68.072 90)
 			(effects
 				(font
@@ -4280,76 +4056,6 @@
 			(project ""
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
 					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 165.1 58.42 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "655c9a84-9e84-4164-bb34-e15c282855d5")
-		(property "Reference" "R10"
-			(at 162.56 57.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "68k"
-			(at 162.56 59.6899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 166.878 58.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 165.1 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 165.1 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ab126bfb-c554-49d6-bf5f-6fef2e9311ca")
-		)
-		(pin "1"
-			(uuid "dd8f0d59-0528-45fb-9a35-61076618808f")
-		)
-		(instances
-			(project "tomato-preamp"
-				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
-					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -4454,7 +4160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
 			(at 140.97 68.072 90)
 			(effects
 				(font
@@ -4700,7 +4406,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 106.68 58.42 180)
+		(at 104.14 58.42 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4709,7 +4415,7 @@
 		(fields_autoplaced yes)
 		(uuid "809d4dbb-eb8c-4eb3-a9c4-0dc12cf906c2")
 		(property "Reference" "R4"
-			(at 109.22 57.1499 0)
+			(at 106.68 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4717,8 +4423,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "68k"
-			(at 109.22 59.6899 0)
+		(property "Value" "32k"
+			(at 106.68 59.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4726,8 +4432,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 108.458 58.42 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
+			(at 105.918 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4736,7 +4442,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 58.42 0)
+			(at 104.14 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4745,7 +4451,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 106.68 58.42 0)
+			(at 104.14 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5468,7 +5174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Valve:Valve_Noval_P"
+		(property "Footprint" "tubes:Valve_6N2P-3"
 			(at 110.998 97.79 0)
 			(effects
 				(font
@@ -5625,7 +5331,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Valve:Valve_Noval_P"
+		(property "Footprint" "tubes:Valve_6N2P-3"
 			(at 222.758 96.52 0)
 			(effects
 				(font
