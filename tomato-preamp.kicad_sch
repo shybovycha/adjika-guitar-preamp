@@ -2771,16 +2771,6 @@
 		)
 		(uuid "f6f501a5-825d-42fc-b807-cd8beb00d0db")
 	)
-	(label "High voltage"
-		(at 115.57 49.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c739e301-b97c-415f-99c6-470c9f667dc8")
-	)
 	(symbol
 		(lib_id "Device:R")
 		(at 85.09 95.25 180)
@@ -2963,7 +2953,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1K 2W"
 			(at 152.4 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2973,7 +2963,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
 			(at 152.4 51.308 90)
 			(hide yes)
 			(show_name no)
@@ -4363,7 +4353,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "32k"
+		(property "Value" "32k 2W"
 			(at 170.18 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5163,7 +5153,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "32k"
+		(property "Value" "32k 2W"
 			(at 106.68 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5335,7 +5325,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 145.542 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -5653,7 +5643,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 183.642 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -6391,7 +6381,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D13.0mm_P7.50mm\\"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D13.0mm_P7.50mm"
 			(at 188.9252 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -6720,7 +6710,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1K 2W"
 			(at 194.31 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6730,7 +6720,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
 			(at 194.31 51.308 90)
 			(hide yes)
 			(show_name no)
