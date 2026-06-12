@@ -8,6 +8,365 @@
 		(title "\"Adjika\" guitar preamp")
 	)
 	(lib_symbols
+		(symbol "Connector:Screw_Terminal_01x01"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Screw_Terminal_01x01"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "screw terminal"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Screw_Terminal_01x01_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector:Screw_Terminal_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Screw_Terminal_01x02"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "screw terminal"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Screw_Terminal_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Audio:AudioJack3_Switch"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -323,135 +682,6 @@
 						)
 					)
 					(number "TN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Connector_Generic:Conn_01x01"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x01"
-				(at 0 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Conn_01x01_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -1.27)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1922,6 +2152,12 @@
 		(uuid "06342523-6e9b-4218-b15b-3377e290ff9c")
 	)
 	(junction
+		(at 222.25 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b914363-20be-4a05-92bb-1515b658ad94")
+	)
+	(junction
 		(at 59.69 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1970,12 +2206,6 @@
 		(uuid "70bf9600-0bd5-4ade-8133-b2b1a78c924c")
 	)
 	(junction
-		(at 222.25 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "76a4c1fc-1b1d-489e-84e3-024dc585de9d")
-	)
-	(junction
 		(at 130.81 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2022,14 +2252,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb48294d-5d77-4684-a51c-b45ceccc4d76")
-	)
-	(no_connect
-		(at 59.69 85.09)
-		(uuid "5e26a1d7-4282-4cfb-ac72-f818334f83d3")
-	)
-	(no_connect
-		(at 194.31 81.28)
-		(uuid "950e0e3e-383c-4161-9b25-4359e9c190e4")
 	)
 	(wire
 		(pts
@@ -2100,6 +2322,16 @@
 			(type default)
 		)
 		(uuid "10106a7b-bd4e-4a63-be25-bf0ed0ebcf2e")
+	)
+	(wire
+		(pts
+			(xy 142.24 127) (xy 139.7 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11afa65c-1f60-4e9d-8295-f17f8db4ba3c")
 	)
 	(wire
 		(pts
@@ -2193,7 +2425,17 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 58.42) (xy 207.01 54.61)
+			(xy 213.36 101.6) (xy 227.33 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ac41bf7-5350-4284-b7b2-cb5e97bab803")
+	)
+	(wire
+		(pts
+			(xy 207.01 58.42) (xy 207.01 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2233,6 +2475,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 127) (xy 177.8 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c64afbd-e6dc-4ad4-aa13-b0860db7619c")
+	)
+	(wire
+		(pts
 			(xy 187.96 49.53) (xy 187.96 50.8)
 		)
 		(stroke
@@ -2240,16 +2492,6 @@
 			(type default)
 		)
 		(uuid "3f1266d0-b269-41b6-843b-efa532b2ba66")
-	)
-	(wire
-		(pts
-			(xy 224.79 104.14) (xy 226.06 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4068497f-459f-40da-840b-5a1306ef9da4")
 	)
 	(wire
 		(pts
@@ -2270,6 +2512,16 @@
 			(type default)
 		)
 		(uuid "46a9147b-d589-4df5-a0d3-8d2ea18e0e78")
+	)
+	(wire
+		(pts
+			(xy 139.7 127) (xy 139.7 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49c90fcb-4b54-4ee0-b727-a2a203341a74")
 	)
 	(wire
 		(pts
@@ -2303,7 +2555,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 54.61) (xy 209.55 54.61)
+			(xy 207.01 52.07) (xy 209.55 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2383,13 +2635,13 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 111.76) (xy 224.79 104.14)
+			(xy 194.31 81.28) (xy 191.77 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7fcbb285-a83d-4653-ad90-3d0cd9fc7a43")
+		(uuid "7ed6b4ac-a9aa-460c-ade7-8ccc10b6485c")
 	)
 	(wire
 		(pts
@@ -2403,7 +2655,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 99.06) (xy 226.06 99.06)
+			(xy 222.25 99.06) (xy 227.33 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2473,16 +2725,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 97.79) (xy 213.36 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ae20299-058f-4cd5-8056-808f64a55c3a")
-	)
-	(wire
-		(pts
 			(xy 101.6 97.79) (xy 101.6 100.33)
 		)
 		(stroke
@@ -2543,13 +2785,13 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 83.82) (xy 194.31 83.82)
+			(xy 59.69 87.63) (xy 72.39 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bbf38e11-3182-44d1-9f8b-554ee48177d8")
+		(uuid "b8f37b26-60eb-4efe-b2ad-52762358b3d1")
 	)
 	(wire
 		(pts
@@ -2573,13 +2815,13 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 87.63) (xy 72.39 87.63)
+			(xy 191.77 77.47) (xy 191.77 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c5aa414b-4932-4a15-90e6-5c31ef82271c")
+		(uuid "c1c28913-4851-470b-b64e-1c4d257f30ce")
 	)
 	(wire
 		(pts
@@ -2600,6 +2842,16 @@
 			(type default)
 		)
 		(uuid "cc42b2be-e1c2-4214-9fb7-b3e8bab35722")
+	)
+	(wire
+		(pts
+			(xy 60.96 80.01) (xy 60.96 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d05962d7-8644-4b42-a934-0ded834349d2")
 	)
 	(wire
 		(pts
@@ -2630,6 +2882,16 @@
 			(type default)
 		)
 		(uuid "d5c60b28-68f8-4f04-a607-4b916189a673")
+	)
+	(wire
+		(pts
+			(xy 59.69 85.09) (xy 60.96 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d62ddeb2-0c5e-4e51-bebe-64a97f0a7707")
 	)
 	(wire
 		(pts
@@ -2733,6 +2995,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 101.6) (xy 213.36 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec8b89d2-d238-4f74-9096-963044394aa2")
+	)
+	(wire
+		(pts
 			(xy 59.69 92.71) (xy 71.12 92.71)
 		)
 		(stroke
@@ -2753,6 +3025,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 127) (xy 177.8 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f462e99b-3e3e-435f-8052-f95c4ab9effa")
+	)
+	(wire
+		(pts
 			(xy 123.19 59.69) (xy 123.19 69.85)
 		)
 		(stroke
@@ -2770,6 +3052,16 @@
 			(type default)
 		)
 		(uuid "f6f501a5-825d-42fc-b807-cd8beb00d0db")
+	)
+	(wire
+		(pts
+			(xy 189.23 83.82) (xy 194.31 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd8cddb4-abc8-4341-af08-c959a87f6386")
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -3066,7 +3358,7 @@
 				)
 			)
 		)
-		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)"
+		(property "Description" "OUT"
 			(at 199.39 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3177,85 +3469,6 @@
 			(project "tomato-preamp"
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
 					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 231.14 104.14 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "20a87644-981e-4454-9e10-f1b221ca94b9")
-		(property "Reference" "J4.2"
-			(at 233.68 102.8699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "-HEATER"
-			(at 233.68 105.4099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
-			(at 231.14 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 231.14 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 231.14 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4f13dcd7-cc8b-4145-b96a-d591ae8be43c")
-		)
-		(instances
-			(project "tomato-preamp"
-				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
-					(reference "J4.2")
 					(unit 1)
 				)
 			)
@@ -3597,6 +3810,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 232.41 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2cbdc2b2-6e6b-4d82-a889-254e18eeec6b")
+		(property "Reference" "J4"
+			(at 234.95 99.0599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "6V3"
+			(at 234.95 101.5999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm"
+			(at 232.41 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "HEATER"
+			(at 232.41 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c610eebb-4d93-4e97-b7bb-3b45b5a47637")
+		)
+		(pin "2"
+			(uuid "8c62406e-322f-431d-a920-b30961cff23b")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 222.25 99.06 0)
 		(unit 1)
@@ -3786,7 +4081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W5.0mm_P5.00mm"
 			(at 111.4552 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -3829,6 +4124,163 @@
 			(project "tomato-preamp"
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 177.8 130.81 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "45719b92-ad11-47c3-9ba7-c6be81c93c94")
+		(property "Reference" "#PWR018"
+			(at 177.8 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 177.8 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 177.8 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 177.8 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "87e7b051-0d1d-4645-9309-272b0fc23879")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 185.42 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "47795554-1b60-4f16-91ea-1f1e90b77ac5")
+		(property "Reference" "J6"
+			(at 187.96 125.7299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "VOL_GND"
+			(at 187.96 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm"
+			(at 185.42 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "VOL_GND"
+			(at 185.42 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f72c27e8-9143-46cf-a29a-f9c3bdb5bd38")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -3907,6 +4359,84 @@
 			(project "tomato-preamp"
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 139.7 130.81 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e35a532-e2c9-4a2c-85ca-c5587de74c37")
+		(property "Reference" "#PWR017"
+			(at 139.7 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 139.7 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 139.7 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3328f0d8-1055-4512-9269-0a8d203e02ef")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -4084,7 +4614,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "500fa795-aa5f-4672-9d75-b567358d8ca3")
 		(property "Reference" "RV2"
 			(at 182.88 82.5499 0)
@@ -4130,9 +4659,8 @@
 				)
 			)
 		)
-		(property "Description" "Potentiometer"
-			(at 185.42 83.82 0)
-			(hide yes)
+		(property "Description" "VOL"
+			(at 185.42 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4154,85 +4682,6 @@
 			(project "tomato-preamp"
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
 					(reference "RV2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 214.63 54.61 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5132da09-61a2-4818-a66b-4cc849813fd8")
-		(property "Reference" "J3.2"
-			(at 217.17 53.3399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "-ANODE"
-			(at 217.17 55.8799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
-			(at 214.63 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 214.63 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4f13dcd7-cc8b-4145-b96a-d591ae8be43d")
-		)
-		(instances
-			(project "tomato-preamp"
-				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
-					(reference "J3.2")
 					(unit 1)
 				)
 			)
@@ -4292,7 +4741,7 @@
 				)
 			)
 		)
-		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)"
+		(property "Description" "IN"
 			(at 54.61 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4413,85 +4862,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 231.14 99.06 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5b24435a-b3b9-4786-b47c-dc66b9c8bc0c")
-		(property "Reference" "J4.1"
-			(at 233.68 97.7899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "+HEATER"
-			(at 233.68 100.3299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
-			(at 231.14 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 231.14 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 231.14 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4f13dcd7-cc8b-4145-b96a-d591ae8be43e")
-		)
-		(instances
-			(project "tomato-preamp"
-				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
-					(reference "J4.1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 165.1 114.3 0)
 		(unit 1)
@@ -4601,7 +4971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 127 68.072 90)
 			(hide yes)
 			(show_name no)
@@ -4737,7 +5107,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6d14eaa7-3398-4a04-b61a-33a17e77c53d")
 		(property "Reference" "RV1"
 			(at 144.78 86.3599 0)
@@ -4783,9 +5152,8 @@
 				)
 			)
 		)
-		(property "Description" "Potentiometer"
-			(at 147.32 87.63 0)
-			(hide yes)
+		(property "Description" "GAIN"
+			(at 147.32 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4844,7 +5212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 140.97 68.072 90)
 			(hide yes)
 			(show_name no)
@@ -4924,7 +5292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 157.48 68.8848 0)
 			(hide yes)
 			(show_name no)
@@ -5244,7 +5612,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 			(at 130.81 58.7248 0)
 			(hide yes)
 			(show_name no)
@@ -5374,85 +5742,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 214.63 49.53 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8771c8c2-e589-4c8f-b28d-8512c00a21dd")
-		(property "Reference" "J3.1"
-			(at 217.17 48.2599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "+ANODE"
-			(at 217.17 50.7999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
-			(at 214.63 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 214.63 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4f13dcd7-cc8b-4145-b96a-d591ae8be43f")
-		)
-		(instances
-			(project "tomato-preamp"
-				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
-					(reference "J3.1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 114.3 69.85 90)
 		(unit 1)
@@ -5484,7 +5773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L11.0mm_W4.2mm_P10.00mm_MKT"
+		(property "Footprint" "Capacitor_THT:C_Rect_L11.0mm_W5.1mm_P10.00mm_MKT"
 			(at 118.11 68.8848 0)
 			(hide yes)
 			(show_name no)
@@ -5686,84 +5975,6 @@
 			(project "tomato-preamp"
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
 					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 224.79 111.76 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8b76a388-b78a-4dfa-b38d-01163222081f")
-		(property "Reference" "#PWR09"
-			(at 224.79 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 224.79 116.84 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 224.79 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 224.79 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6d36ef2d-9cd7-48ba-b99f-2571e54b00da")
-		)
-		(instances
-			(project "tomato-preamp"
-				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
-					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -6381,7 +6592,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D13.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D13.0mm_P5.00mm"
 			(at 188.9252 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -6424,6 +6635,85 @@
 			(project "tomato-preamp"
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 147.32 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c96fc0ab-c3eb-448a-a850-bdb78523eef2")
+		(property "Reference" "J5"
+			(at 149.86 125.7299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GAIN_GND"
+			(at 149.86 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.127sqmm_1x01_D0.48mm_OD1mm"
+			(at 147.32 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "GAIN_GND"
+			(at 147.32 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0f5a213f-e5f7-449c-a617-518598c19266")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -6534,6 +6824,83 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 60.96 80.01 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cc094eed-4996-4bba-bdbd-aff113dfa449")
+		(property "Reference" "#PWR019"
+			(at 60.96 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 60.96 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 60.96 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d66cbc8d-7aca-48e0-af66-133968f91a95")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 146.05 60.96 0)
 		(unit 1)
 		(body_style 1)
@@ -6612,7 +6979,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 213.36 111.76 0)
+		(at 191.77 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6621,9 +6988,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d4f11f3d-359b-410e-9aed-2c6aac76fcc2")
-		(property "Reference" "#PWR08"
-			(at 213.36 118.11 0)
+		(uuid "d4bbdc07-0850-4abc-9858-fd40a3a82717")
+		(property "Reference" "#PWR020"
+			(at 191.77 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6634,7 +7001,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 213.36 116.84 0)
+			(at 191.77 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6644,7 +7011,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 213.36 111.76 0)
+			(at 191.77 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6655,7 +7022,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 111.76 0)
+			(at 191.77 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6666,7 +7033,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 213.36 111.76 0)
+			(at 191.77 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6677,12 +7044,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "6d36ef2d-9cd7-48ba-b99f-2571e54b00dd")
+			(uuid "3ad0ebf5-a2e1-46f2-9cbf-87e41cc8181a")
 		)
 		(instances
 			(project "tomato-preamp"
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
-					(reference "#PWR08")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -6802,7 +7169,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D13.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D13.0mm_P5.00mm"
 			(at 147.0152 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -6845,6 +7212,88 @@
 			(project "tomato-preamp"
 				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 214.63 49.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ff829eef-c92d-4bdf-be2d-1e8bb47d9700")
+		(property "Reference" "J3"
+			(at 217.17 49.5299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "200V"
+			(at 217.17 52.0699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm"
+			(at 214.63 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 214.63 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "ANODE"
+			(at 214.63 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0fefe3ff-c472-4d77-b6ad-5ecdad3f6c1c")
+		)
+		(pin "1"
+			(uuid "aca1ac8b-23fc-4f13-9a39-3c0061e0a5c2")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "J3")
 					(unit 1)
 				)
 			)
