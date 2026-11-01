@@ -2122,13 +2122,13 @@
 		(uuid "06342523-6e9b-4218-b15b-3377e290ff9c")
 	)
 	(junction
-		(at 222.25 99.06)
+		(at 238.76 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0b914363-20be-4a05-92bb-1515b658ad94")
 	)
 	(junction
-		(at 59.69 92.71)
+		(at 38.1 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1308180e-5dca-4ed1-8ba4-365b7bffebff")
@@ -2140,7 +2140,7 @@
 		(uuid "1ca1e992-7eb0-49a3-880f-5d7058e35b53")
 	)
 	(junction
-		(at 214.63 114.3)
+		(at 241.3 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20b90b51-2715-4753-a469-b45644f939e2")
@@ -2152,13 +2152,13 @@
 		(uuid "227f1a40-cdc1-4e46-b696-5472438cbf46")
 	)
 	(junction
-		(at 194.31 88.9)
+		(at 208.28 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2fe9992e-92a5-4c4c-aa03-232e2ebfeea7")
 	)
 	(junction
-		(at 204.47 114.3)
+		(at 231.14 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36fff26f-1c5d-45cd-bb5a-1e756c2355b6")
@@ -2182,13 +2182,19 @@
 		(uuid "5e81fa0c-4a7f-43f9-be47-35b1de70d8a8")
 	)
 	(junction
+		(at 195.58 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "66f2c8a2-5c57-4373-9fce-541928dbebf1")
+	)
+	(junction
 		(at 167.64 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "70bf9600-0bd5-4ade-8133-b2b1a78c924c")
 	)
 	(junction
-		(at 209.55 114.3)
+		(at 236.22 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "74967a97-ab7a-411c-ba21-b10b5544861c")
@@ -2212,6 +2218,12 @@
 		(uuid "b6c77839-7008-416a-b06c-48adbb82664d")
 	)
 	(junction
+		(at 53.34 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba9ce964-722f-46f6-890e-8d07d3fc48d5")
+	)
+	(junction
 		(at 165.1 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2224,7 +2236,13 @@
 		(uuid "c987ec36-2208-4521-b927-7d74439312eb")
 	)
 	(junction
-		(at 194.31 91.44)
+		(at 55.88 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "caef6a8b-786d-40fa-9446-72b357739e65")
+	)
+	(junction
+		(at 208.28 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9ece206-c957-450e-ac96-2a6b790fc50e")
@@ -2236,7 +2254,13 @@
 		(uuid "ef93ba17-7b05-4ab8-85b5-657c9a87d181")
 	)
 	(junction
-		(at 59.69 95.25)
+		(at 198.12 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f704a5c3-291a-418c-922b-ffa219caa5a5")
+	)
+	(junction
+		(at 38.1 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb48294d-5d77-4684-a51c-b45ceccc4d76")
@@ -2253,23 +2277,13 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 113.03) (xy 214.63 114.3)
+			(xy 241.3 113.03) (xy 241.3 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0580bf11-da40-490b-9820-c1a51f1898f1")
-	)
-	(wire
-		(pts
-			(xy 85.09 87.63) (xy 96.52 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "066f3339-e7be-46a0-a11a-a95c0c72c497")
 	)
 	(wire
 		(pts
@@ -2293,7 +2307,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 88.9) (xy 194.31 91.44)
+			(xy 208.28 88.9) (xy 208.28 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2303,7 +2317,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 72.39) (xy 224.79 72.39)
+			(xy 232.41 72.39) (xy 241.3 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2383,7 +2397,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 72.39) (xy 224.79 74.93)
+			(xy 241.3 72.39) (xy 241.3 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2413,7 +2427,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 114.3) (xy 204.47 114.3)
+			(xy 236.22 114.3) (xy 231.14 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2423,7 +2437,17 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 101.6) (xy 227.33 101.6)
+			(xy 198.12 81.28) (xy 198.12 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a60ba7b-fcb2-4d41-9fb4-bf62cb817b7e")
+	)
+	(wire
+		(pts
+			(xy 229.87 101.6) (xy 243.84 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2433,7 +2457,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 113.03) (xy 209.55 114.3)
+			(xy 236.22 113.03) (xy 236.22 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2493,7 +2517,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 97.79) (xy 218.44 99.06)
+			(xy 234.95 97.79) (xy 234.95 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2503,7 +2527,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 86.36) (xy 194.31 88.9)
+			(xy 208.28 86.36) (xy 208.28 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2523,7 +2547,27 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 91.44) (xy 194.31 93.98)
+			(xy 195.58 81.28) (xy 195.58 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5de61c1b-dc49-450b-95f7-1c28e84e386d")
+	)
+	(wire
+		(pts
+			(xy 189.23 83.82) (xy 195.58 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e2911f8-d3ac-4028-a2de-7852eb798940")
+	)
+	(wire
+		(pts
+			(xy 208.28 91.44) (xy 208.28 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2563,7 +2607,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 114.3) (xy 204.47 113.03)
+			(xy 231.14 114.3) (xy 231.14 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2573,7 +2617,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 87.63) (xy 85.09 87.63)
+			(xy 80.01 87.63) (xy 96.52 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2623,7 +2667,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 74.93) (xy 215.9 72.39)
+			(xy 232.41 74.93) (xy 232.41 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2633,7 +2677,27 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 81.28) (xy 191.77 81.28)
+			(xy 53.34 87.63) (xy 72.39 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77924547-3515-48b4-9f40-141ff852ae64")
+	)
+	(wire
+		(pts
+			(xy 198.12 88.9) (xy 208.28 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e5cf2d6-8189-4ea9-bad1-336ee57e35c0")
+	)
+	(wire
+		(pts
+			(xy 208.28 81.28) (xy 205.74 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2653,7 +2717,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 99.06) (xy 227.33 99.06)
+			(xy 238.76 99.06) (xy 243.84 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2670,16 +2734,6 @@
 			(type default)
 		)
 		(uuid "89fabd0c-1992-45ca-a5e2-8734b5b18679")
-	)
-	(wire
-		(pts
-			(xy 190.5 88.9) (xy 194.31 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b63ce03-536e-4e13-9de7-50e4e398254a")
 	)
 	(wire
 		(pts
@@ -2713,13 +2767,23 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 90.17) (xy 59.69 92.71)
+			(xy 38.1 90.17) (xy 38.1 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "99f2a0b4-636d-42a3-8dd9-b2d14ec7180e")
+	)
+	(wire
+		(pts
+			(xy 53.34 87.63) (xy 53.34 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c7da8f8-2f67-4d30-bb29-a2d8874d6ac7")
 	)
 	(wire
 		(pts
@@ -2730,6 +2794,16 @@
 			(type default)
 		)
 		(uuid "9d942e13-2b71-453f-b9df-ae1f39e09599")
+	)
+	(wire
+		(pts
+			(xy 55.88 85.09) (xy 55.88 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0eb00f8-68b2-4401-9b17-e9f5f1e024a0")
 	)
 	(wire
 		(pts
@@ -2763,6 +2837,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 83.82) (xy 208.28 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad815ca3-5410-4cba-a8a5-0a06b9104ec2")
+	)
+	(wire
+		(pts
 			(xy 110.49 111.76) (xy 110.49 114.3)
 		)
 		(stroke
@@ -2783,17 +2867,17 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 87.63) (xy 72.39 87.63)
+			(xy 55.88 92.71) (xy 55.88 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b8f37b26-60eb-4efe-b2ad-52762358b3d1")
+		(uuid "b37a8d53-8056-416a-9492-6d1a97b0e3fe")
 	)
 	(wire
 		(pts
-			(xy 218.44 99.06) (xy 222.25 99.06)
+			(xy 234.95 99.06) (xy 238.76 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2813,7 +2897,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 113.03) (xy 219.71 114.3)
+			(xy 246.38 113.03) (xy 246.38 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2823,7 +2907,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 77.47) (xy 191.77 81.28)
+			(xy 205.74 77.47) (xy 205.74 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2833,7 +2917,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 114.3) (xy 214.63 114.3)
+			(xy 246.38 114.3) (xy 241.3 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2843,7 +2927,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 95.25) (xy 59.69 97.79)
+			(xy 38.1 95.25) (xy 38.1 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2863,23 +2947,13 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 80.01) (xy 60.96 85.09)
+			(xy 40.64 80.01) (xy 40.64 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d05962d7-8644-4b42-a934-0ded834349d2")
-	)
-	(wire
-		(pts
-			(xy 71.12 92.71) (xy 71.12 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0d2c5fd-83af-421a-a53e-7c25ba822bc0")
 	)
 	(wire
 		(pts
@@ -2893,6 +2967,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 88.9) (xy 198.12 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d492fdf0-96ba-43bd-8bb1-17b4664d2d4b")
+	)
+	(wire
+		(pts
 			(xy 175.26 102.87) (xy 165.1 102.87)
 		)
 		(stroke
@@ -2903,7 +2987,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 85.09) (xy 60.96 85.09)
+			(xy 38.1 85.09) (xy 40.64 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2933,7 +3017,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 115.57) (xy 204.47 114.3)
+			(xy 231.14 115.57) (xy 231.14 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2993,7 +3077,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 92.71) (xy 59.69 95.25)
+			(xy 38.1 92.71) (xy 38.1 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3003,7 +3087,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 114.3) (xy 209.55 114.3)
+			(xy 241.3 114.3) (xy 236.22 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3033,7 +3117,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 101.6) (xy 213.36 97.79)
+			(xy 229.87 101.6) (xy 229.87 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3043,7 +3127,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 92.71) (xy 71.12 92.71)
+			(xy 38.1 92.71) (xy 55.88 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3073,6 +3157,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 87.63) (xy 53.34 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f69f9fe4-82d6-4c15-9ecf-c4cb257e7c75")
+	)
+	(wire
+		(pts
 			(xy 104.14 62.23) (xy 104.14 69.85)
 		)
 		(stroke
@@ -3080,16 +3174,6 @@
 			(type default)
 		)
 		(uuid "f6f501a5-825d-42fc-b807-cd8beb00d0db")
-	)
-	(wire
-		(pts
-			(xy 189.23 83.82) (xy 194.31 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd8cddb4-abc8-4341-af08-c959a87f6386")
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -3332,8 +3416,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Audio:AudioJack3_Switch")
-		(at 199.39 88.9 180)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 53.34 80.01 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3341,31 +3425,29 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "1c247a64-4d14-41b4-b3ac-17b8c932ba7b")
-		(property "Reference" "J2"
-			(at 207.01 89.5351 0)
+		(uuid "1bd0845f-0573-4200-8937-e95078fa2e1a")
+		(property "Reference" "J5"
+			(at 50.546 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "OUT"
-			(at 207.01 86.9951 0)
+		(property "Value" "IN"
+			(at 50.546 81.788 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal"
-			(at 199.39 88.9 0)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm"
+			(at 53.34 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3376,7 +3458,88 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 88.9 0)
+			(at 53.34 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 53.34 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b7488218-f4b4-4b70-bcc8-f9231afcda77")
+		)
+		(pin "1"
+			(uuid "1660645a-ac41-40ed-99cd-ced40c3e6e4a")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Audio:AudioJack3_Switch")
+		(at 213.36 88.9 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1c247a64-4d14-41b4-b3ac-17b8c932ba7b")
+		(property "Reference" "J2"
+			(at 220.98 89.5351 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "OUT"
+			(at 220.98 86.9951 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal"
+			(at 213.36 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3387,7 +3550,7 @@
 			)
 		)
 		(property "Description" "OUT"
-			(at 199.39 88.9 0)
+			(at 213.36 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3504,7 +3667,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 114.3 0)
+		(at 55.88 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3514,7 +3677,7 @@
 		(dnp no)
 		(uuid "25001da5-cefc-47e6-acc7-96208fdc541c")
 		(property "Reference" "#PWR02"
-			(at 71.12 120.65 0)
+			(at 55.88 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3525,7 +3688,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.12 119.38 0)
+			(at 55.88 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3535,7 +3698,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 114.3 0)
+			(at 55.88 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3546,7 +3709,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 114.3 0)
+			(at 55.88 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3557,7 +3720,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 114.3 0)
+			(at 55.88 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3839,7 +4002,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 232.41 99.06 0)
+		(at 248.92 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3850,7 +4013,7 @@
 		(fields_autoplaced yes)
 		(uuid "2cbdc2b2-6e6b-4d82-a889-254e18eeec6b")
 		(property "Reference" "J4"
-			(at 234.95 99.0599 0)
+			(at 251.46 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3861,7 +4024,7 @@
 			)
 		)
 		(property "Value" "6V3"
-			(at 234.95 101.5999 0)
+			(at 251.46 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3872,7 +4035,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm"
-			(at 232.41 99.06 0)
+			(at 248.92 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3883,7 +4046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 232.41 99.06 0)
+			(at 248.92 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3894,7 +4057,7 @@
 			)
 		)
 		(property "Description" "HEATER"
-			(at 232.41 99.06 0)
+			(at 248.92 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3921,7 +4084,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 222.25 99.06 0)
+		(at 238.76 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3932,7 +4095,7 @@
 		(fields_autoplaced yes)
 		(uuid "2efd4ea7-9c0c-4ca8-b505-9b0320d15b4b")
 		(property "Reference" "#FLG02"
-			(at 222.25 97.155 0)
+			(at 238.76 97.155 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3943,7 +4106,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 222.25 93.98 0)
+			(at 238.76 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3953,7 +4116,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.25 99.06 0)
+			(at 238.76 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3964,7 +4127,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 99.06 0)
+			(at 238.76 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3975,7 +4138,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 222.25 99.06 0)
+			(at 238.76 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4158,41 +4321,41 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 204.47 110.49 0)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 195.58 76.2 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3dcf986b-c3fa-41b4-92a3-d0dc1745f283")
-		(property "Reference" "H1"
-			(at 207.01 107.9499 0)
+		(uuid "3c331adb-8e67-48e7-a2c7-c8c8802f6f1b")
+		(property "Reference" "J6"
+			(at 200.66 74.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "MountingHole_Pad"
-			(at 207.01 110.4899 0)
+		(property "Value" "OUT"
+			(at 200.66 77.4699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 204.47 110.49 0)
+		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm"
+			(at 195.58 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4203,7 +4366,89 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 110.49 0)
+			(at 195.58 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 195.58 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b623906a-d281-44b2-8687-6e865621cd41")
+		)
+		(pin "2"
+			(uuid "b32f118c-9ee6-4272-a48d-7e4393fb8a3f")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 231.14 110.49 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3dcf986b-c3fa-41b4-92a3-d0dc1745f283")
+		(property "Reference" "H1"
+			(at 233.68 107.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 233.68 110.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+			(at 231.14 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4214,7 +4459,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 204.47 110.49 0)
+			(at 231.14 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4238,7 +4483,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 204.47 115.57 0)
+		(at 231.14 115.57 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4249,7 +4494,7 @@
 		(fields_autoplaced yes)
 		(uuid "45c323b9-fb27-41f9-b34e-2dc46194c11c")
 		(property "Reference" "#PWR08"
-			(at 204.47 121.92 0)
+			(at 231.14 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4260,7 +4505,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 204.47 120.65 0)
+			(at 231.14 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4270,7 +4515,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 204.47 115.57 0)
+			(at 231.14 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4281,7 +4526,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 115.57 0)
+			(at 231.14 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4292,7 +4537,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 204.47 115.57 0)
+			(at 231.14 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4394,7 +4639,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 214.63 110.49 0)
+		(at 241.3 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4405,7 +4650,7 @@
 		(fields_autoplaced yes)
 		(uuid "49d81b1f-9536-4840-b911-0ad08bb694e4")
 		(property "Reference" "H3"
-			(at 217.17 107.9499 0)
+			(at 243.84 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4416,7 +4661,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 217.17 110.4899 0)
+			(at 243.84 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4427,7 +4672,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 214.63 110.49 0)
+			(at 241.3 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4438,7 +4683,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 110.49 0)
+			(at 241.3 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4449,7 +4694,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 214.63 110.49 0)
+			(at 241.3 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4718,18 +4963,18 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack3_Switch")
-		(at 54.61 92.71 0)
+		(at 33.02 92.71 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "52ed6930-55b7-4d3f-b5e1-ce029d355ae9")
 		(property "Reference" "J1"
-			(at 52.705 101.6 0)
+			(at 31.115 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4739,7 +4984,7 @@
 			)
 		)
 		(property "Value" "IN"
-			(at 52.705 99.06 0)
+			(at 31.115 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4749,7 +4994,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal"
-			(at 54.61 92.71 0)
+			(at 33.02 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4760,7 +5005,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 92.71 0)
+			(at 33.02 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4771,7 +5016,7 @@
 			)
 		)
 		(property "Description" "IN"
-			(at 54.61 92.71 0)
+			(at 33.02 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6011,7 +6256,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 224.79 74.93 0)
+		(at 241.3 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6022,7 +6267,7 @@
 		(fields_autoplaced yes)
 		(uuid "9aa7e4fd-c5f0-4002-b77b-cdce3ad2825a")
 		(property "Reference" "#PWR014"
-			(at 224.79 81.28 0)
+			(at 241.3 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6033,7 +6278,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 224.79 80.01 0)
+			(at 241.3 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6043,7 +6288,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 224.79 74.93 0)
+			(at 241.3 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6054,7 +6299,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 224.79 74.93 0)
+			(at 241.3 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6065,7 +6310,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 224.79 74.93 0)
+			(at 241.3 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6671,7 +6916,7 @@
 	)
 	(symbol
 		(lib_id "tubes:6N2P")
-		(at 215.9 86.36 0)
+		(at 232.41 86.36 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6682,7 +6927,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb68704c-868f-4085-8648-7ab3445bb383")
 		(property "Reference" "U1"
-			(at 222.25 85.0899 0)
+			(at 238.76 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6693,7 +6938,7 @@
 			)
 		)
 		(property "Value" "6N2P"
-			(at 222.25 87.6299 0)
+			(at 238.76 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6704,7 +6949,7 @@
 			)
 		)
 		(property "Footprint" "tubes:Valve_6N2P-3"
-			(at 222.758 96.52 0)
+			(at 239.268 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6715,7 +6960,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.drtube.com/datasheets/6n2p-ev.pdf"
-			(at 215.9 86.36 0)
+			(at 232.41 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6726,7 +6971,7 @@
 			)
 		)
 		(property "Description" "double triode"
-			(at 215.9 86.36 0)
+			(at 232.41 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6774,7 +7019,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 60.96 80.01 180)
+		(at 40.64 80.01 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6784,7 +7029,7 @@
 		(dnp no)
 		(uuid "cc094eed-4996-4bba-bdbd-aff113dfa449")
 		(property "Reference" "#PWR019"
-			(at 60.96 73.66 0)
+			(at 40.64 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6795,7 +7040,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 60.96 74.93 0)
+			(at 40.64 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6805,7 +7050,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 80.01 0)
+			(at 40.64 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6816,7 +7061,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 80.01 0)
+			(at 40.64 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6827,7 +7072,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 60.96 80.01 0)
+			(at 40.64 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6851,7 +7096,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 219.71 110.49 0)
+		(at 246.38 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6862,7 +7107,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1f7f456-2594-48d6-b3a3-acca2b995d8a")
 		(property "Reference" "H4"
-			(at 222.25 107.9499 0)
+			(at 248.92 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6873,7 +7118,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 222.25 110.4899 0)
+			(at 248.92 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6884,7 +7129,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 219.71 110.49 0)
+			(at 246.38 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6895,7 +7140,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 219.71 110.49 0)
+			(at 246.38 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6906,7 +7151,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 219.71 110.49 0)
+			(at 246.38 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7008,7 +7253,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 191.77 77.47 180)
+		(at 205.74 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7019,7 +7264,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4bbdc07-0850-4abc-9858-fd40a3a82717")
 		(property "Reference" "#PWR020"
-			(at 191.77 71.12 0)
+			(at 205.74 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7030,7 +7275,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 191.77 72.39 0)
+			(at 205.74 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7040,7 +7285,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 77.47 0)
+			(at 205.74 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7051,7 +7296,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 77.47 0)
+			(at 205.74 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7062,7 +7307,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 191.77 77.47 0)
+			(at 205.74 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7248,7 +7493,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 209.55 110.49 0)
+		(at 236.22 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7259,7 +7504,7 @@
 		(fields_autoplaced yes)
 		(uuid "f143225d-77f1-4662-af47-e4deed670337")
 		(property "Reference" "H2"
-			(at 212.09 107.9499 0)
+			(at 238.76 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7270,7 +7515,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 212.09 110.4899 0)
+			(at 238.76 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7281,7 +7526,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 209.55 110.49 0)
+			(at 236.22 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7292,7 +7537,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 110.49 0)
+			(at 236.22 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7303,7 +7548,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 209.55 110.49 0)
+			(at 236.22 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
