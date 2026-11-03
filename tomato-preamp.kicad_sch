@@ -2188,6 +2188,12 @@
 		(uuid "66f2c8a2-5c57-4373-9fce-541928dbebf1")
 	)
 	(junction
+		(at 238.76 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a198158-e276-4dbe-adb1-4872ed1399ee")
+	)
+	(junction
 		(at 167.64 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2447,7 +2453,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 101.6) (xy 243.84 101.6)
+			(xy 229.87 101.6) (xy 238.76 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2874,6 +2880,16 @@
 			(type default)
 		)
 		(uuid "b37a8d53-8056-416a-9492-6d1a97b0e3fe")
+	)
+	(wire
+		(pts
+			(xy 238.76 101.6) (xy 243.84 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b49fc71b-4b7c-415a-aec0-6d7d9bdf48aa")
 	)
 	(wire
 		(pts
@@ -4416,6 +4432,7 @@
 		(uuid "3dcf986b-c3fa-41b4-92a3-d0dc1745f283")
 		(property "Reference" "H1"
 			(at 233.68 107.9499 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4427,6 +4444,7 @@
 		)
 		(property "Value" "MountingHole_Pad"
 			(at 233.68 110.4899 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4436,7 +4454,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 231.14 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -4651,6 +4669,7 @@
 		(uuid "49d81b1f-9536-4840-b911-0ad08bb694e4")
 		(property "Reference" "H3"
 			(at 243.84 107.9499 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4662,6 +4681,7 @@
 		)
 		(property "Value" "MountingHole_Pad"
 			(at 243.84 110.4899 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4671,7 +4691,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 241.3 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6415,6 +6435,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 238.76 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8f9f6e1-54c3-41d8-bd0a-3b47b9dec1f1")
+		(property "Reference" "#PWR017"
+			(at 238.76 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 238.76 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 238.76 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8b773d72-0717-467a-969c-e68b87da2356")
+		)
+		(instances
+			(project "tomato-preamp"
+				(path "/b1ae5475-f821-4f3e-b6c1-1dad46d9d858"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 101.6 107.95 180)
 		(unit 1)
@@ -7108,6 +7206,7 @@
 		(uuid "d1f7f456-2594-48d6-b3a3-acca2b995d8a")
 		(property "Reference" "H4"
 			(at 248.92 107.9499 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7119,6 +7218,7 @@
 		)
 		(property "Value" "MountingHole_Pad"
 			(at 248.92 110.4899 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7128,7 +7228,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 246.38 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -7505,6 +7605,7 @@
 		(uuid "f143225d-77f1-4662-af47-e4deed670337")
 		(property "Reference" "H2"
 			(at 238.76 107.9499 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7516,6 +7617,7 @@
 		)
 		(property "Value" "MountingHole_Pad"
 			(at 238.76 110.4899 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7525,7 +7627,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 236.22 110.49 0)
 			(hide yes)
 			(show_name no)
